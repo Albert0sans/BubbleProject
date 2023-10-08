@@ -8,8 +8,6 @@ Moreover, the app offers users the choice to undertake these challenges individu
 
 This is where its name comes from, related to the concept of heterotopia - 'environments within environments.' Each 'bubble' in the app represents a heterotopia where users can experience and interact uniquely. The metaphor of the bubble emphasizes a separate place where interactions and experiences are different from everyday life.
 
-We have used Visual Studio Code , Python and some modules such as earthaccess or matplotlib to develop the project.
-
 # How to execute
 
 run python3 main.py from root folder
