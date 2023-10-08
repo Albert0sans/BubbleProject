@@ -122,7 +122,7 @@ def  plotMapWithZoomedRectangle(lon1, lon2, lat1, lat2, data):
 
 # Get the current date
 current_date = datetime.date.today() 
-delta_date=datetime.date.today() - datetime.timedelta(days=16)
+delta_date=datetime.date.today() - datetime.timedelta(days=30)
 # Format it as yyyy-mm-dd
 current_date = current_date.strftime('%Y-%m-%d')
 delta_date = delta_date.strftime('%Y-%m-%d')
